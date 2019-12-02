@@ -11,7 +11,7 @@ cd BootCamp-FIWARE-ML
 docker-compose up
 ```
 
-* Open browser in http://localhost:8080
+* Open browser in http://localhost:3000
 
 * Select a date and time range
 
