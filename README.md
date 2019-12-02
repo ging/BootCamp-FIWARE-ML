@@ -23,9 +23,9 @@ TODO: Right now run in IntelliJ TrainingJob.scala
 
 * Submit job to Spark
 ```shell
-TODO: Right now run in IntelliJ PredictionJob.scala
-Once it's done change the notify url in entities/subscribeReqPredictionTicket.sh to the spark container name
-Also, add packaging instructions and submit using spark-submit
+# TODO: Right now run in IntelliJ PredictionJob.scala
+# Once it's done change the notify url in entities/subscribeReqPredictionTicket.sh to the spark container name
+# Also, add packaging instructions and submit using spark-submit
 ```
 
 * Subscribe to predictions 
