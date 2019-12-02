@@ -1,9 +1,9 @@
-# fiware-global-summit-berlin-2019-ml
+# Bootcamp FIWARE Machine Learning - Málaga 2019
 
 * Clone this project
 ```shell
-git clone https://github.com/sonsoleslp/fiware-global-summit-berlin-2019-ml
-cd fiware-global-summit-berlin-2019-ml
+git clone https://github.com/ging/BootCamp-FIWARE-ML
+cd BootCamp-FIWARE-ML
 ```
 
 * Run the whole scenario
